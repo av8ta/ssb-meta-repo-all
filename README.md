@@ -20,3 +20,17 @@ npx meta git clone https://github.com/av8ta/ssb-meta-repo-all.git
 ```
 
 meta will clone all of the repos contained in the [.meta](./.meta) file here in the root directory.
+
+## adding ssb repositories
+
+pull requests are very welcome! there are many more packages that didn't show up on a cursory npm search for the keyword ssb; so please feel free to add others and send a pull request :)
+
+[meta](https://www.npmjs.com/package/meta) is awesome so please go install that first, but if you don't wish to, you can simply use npx
+
+```bash
+npx meta project create ssb-something https://somegitregistry
+```
+
+if you have git-ssb installed you can use ssb:// git repos too
+
+for further documentation see [meta](https://www.npmjs.com/package/meta)
