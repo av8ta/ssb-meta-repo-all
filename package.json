@@ -1,0 +1,28 @@
+{
+  "name": "ssb-meta-repo-all",
+  "version": "1.0.0",
+  "description": "meta repo of all ssb packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/av8ta/ssb-meta-repo-all.git"
+  },
+  "keywords": [
+    "ssb",
+    "meta"
+  ],
+  "author": "av8ta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/av8ta/ssb-meta-repo-all/issues"
+  },
+  "homepage": "https://github.com/av8ta/ssb-meta-repo-all#readme",
+  "devDependencies": {
+    "meta": "^2.2.13",
+    "meta-npm": "^1.2.4",
+    "meta-yarn": "^1.1.2"
+  }
+}
