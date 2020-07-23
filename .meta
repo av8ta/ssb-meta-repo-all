@@ -58,6 +58,13 @@
     "patch-hub": "https://github.com/ssb-junkyard/patch-hub.git",
     "ssb-exporter": "https://github.com/arj03/ssb-exporter.git",
     "ferment": "https://github.com/fermentation/ferment.git",
-    "dat-butt": "https://gitlab.com/zachmandeville/dat-butt"
+    "dat-butt": "https://gitlab.com/zachmandeville/dat-butt",
+    "ssb-ws": "https://github.com/ssbc/ssb-ws.git",
+    "ssb-device-address": "https://github.com/ssbc/ssb-device-address.git",
+    "ssb-npm": "ssb://%iqhz/sQCZCSp91JYAqfQPzHuDYrjw1geKPf1wJ1CvlA=.sha256",
+    "ssb-mnpm-registry": "ssb://%pFqjcdVKHqsrtOjVEAVZeCF0iY4s+3Hr0vA3EFCq5UM=.sha256",
+    "git-ssb": "ssb://%n92DiQh7ietE+R+X/I403LQoyf2DtR3WQfCkDKlheQU=.sha256",
+    "sbotc": "ssb://%133ulDgs/oC1DXjoK04vDFy6DgVBB/Zok15YJmuhD5Q=.sha256",
+    "patchfoo": "ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256"
   }
 }
